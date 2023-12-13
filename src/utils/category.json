@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Hospitals",
+    "image": "./category/hospital.jpg"
+  },
+  {
+    "name": "Restaurants",
+    "image": "./category/restaurant.jpg"
+  },
+  {
+    "name": "Theatres",
+    "image": "./category/theatre.jpg"
+  },
+  {
+    "name": "Hotels",
+    "image": "./category/hotel.jpg"
+  },
+  {
+    "name": "Schools",
+    "image": "./category/school.jpg"
+  },
+  {
+    "name": "Colleges",
+    "image": "./category/college.jpg"
+  },
+  {
+    "name": "Tourist Places",
+    "image": "./category/tourist.jpg"
+  },
+  {
+    "name": "Shopping",
+    "image": "./category/shopping.jpg"
+  }
+]
