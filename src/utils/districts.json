@@ -55,19 +55,355 @@
         }
       ],
       "Restaurants":[
+        {
+          "name": "ROYAL VEGA",
+          "address": "ITC Grand Chola Hotel, Little Mount, Guindy, Chennai, Tamil Nadu 600032",
+          "contact": "044 2220 0000",
+          "location": "https://goo.gl/maps/1FgYhdxBdo1L9Nov7"
+        },
+        {
+          "name": "Annalakshmi",
+          "address": "No 6 Mayor Ramanathan Salai, Spur Tank road, Chennai, Tamil Nadu 600031",
+          "contact": "044 2836 8333",
+          "location": "https://goo.gl/maps/Y6peUaREpVCZEZ9ZA"
+        },
+        {
+          "name": "PAPRIKA",
+          "address": "Courtyard by Marriott, 564, Anna Salai, Teynampet, Tamil Nadu 600031",
+          "contact": "044 6676 4000",
+          "location": "https://goo.gl/maps/Vua2RMFdkJGwKhcz7"
+        },
+        {
+          "name": "COPPER CHIMNEY",
+          "address": "73, Cathedral Rd, Kanakasri Nagar, Gopalapuram, Chennai, Tamil Nadu 600086",
+          "contact": "044 2811 5770",
+          "location": "https://goo.gl/maps/eEoPbURoe3tXeeQ76"
+        },
+        {
+          "name": "Barbeque Nation",
+          "address": "No 39,Star City Serviced Apartment, Bazullah Rd, near The Grand Sweets, T. Nagar, Chennai, Tamil Nadu 600032",
+          "contact": "080 6902 8724",
+          "location": "https://g.page/BNTNagar?share"
+        },
+        {
+          "name": "The Marina",
+          "address": "39, College Ln, Thousand Lights West, Nungambakkam, Chennai, Tamil Nadu 600006",
+          "contact": "044 4203 5265",
+          "location": "https://goo.gl/maps/D1L4Ps5uBPKECCHV9"
+        },
+        {
+          "name": "Benjarong-Thai",
+          "address": "146, TT Krishnamachari Rd, Cooperative Colony, Sri Ram Nagar, Alwarpet, Chennai, Tamil Nadu 600006",
+          "contact": "637 499 9514",
+          "location": "https://g.page/benjarong_in?share"
+        },
+        {
+          "name": "Avartana",
+          "address": "ITC Grand Chola Hotel, Little Mount, Guindy, Chennai, Tamil Nadu 600032",
+          "contact": "144 2220 0000",
+          "location": "https://goo.gl/maps/MtAJx6DWj6cpGMa69"
+        }
       ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      "Theatres": [
+        {
+          "name": "Sathyam Cinemas",
+          "address": "8, Thiruvika Rd, Royapettah, Chennai, Tamil Nadu 600014",
+          "contact": "044 4224 4224",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "INOX Cinemas",
+          "address": "Forum Vijaya Mall, Vadapalani, Chennai, Tamil Nadu 600026",
+          "contact": "044 6789 6789",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "PVR Cinemas",
+          "address": "Ampa Skywalk Mall, Nelson Manickam Rd, Aminjikarai, Chennai, Tamil Nadu 600029",
+          "contact": "044 9876 5432",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Escape Cinemas",
+          "address": "Express Avenue Mall, 2nd Floor, Whites Road, Royapettah, Chennai, Tamil Nadu 600014",
+          "contact": "044 1122 3344",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Devi Cineplex",
+          "address": "48, Anna Salai, Mount Road, Chennai, Tamil Nadu 600002",
+          "contact": "044 5566 7788",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "AGS Cinemas",
+          "address": "Villivakkam, Chennai, Tamil Nadu 600049",
+          "contact": "044 2233 4455",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Palazzo Cinemas",
+          "address": "The Grand Mall, Velachery, Chennai, Tamil Nadu 600042",
+          "contact": "044 3344 5566",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Woodlands Theatre",
+          "address": "5D/4D, Opp. Chennai Citi Centre, Dr Radhakrishnan Salai, Chennai, Tamil Nadu 600004",
+          "contact": "044 4455 6677",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "Taj Coromandel",
+          "address": "37, Mahatma Gandhi Road, Nungambakkam, Chennai, Tamil Nadu 600034",
+          "contact": "044 6600 2827",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "ITC Grand Chola",
+          "address": "63, Mount Road, Guindy, Chennai, Tamil Nadu 600032",
+          "contact": "044 2220 0000",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Park Hyatt Chennai",
+          "address": "39, Velachery Road, Near Raj Bhavan, Guindy, Chennai, Tamil Nadu 600032",
+          "contact": "044 7177 1234",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Hyatt Regency Chennai",
+          "address": "365, Anna Salai, Teynampet, Chennai, Tamil Nadu 600018",
+          "contact": "044 6100 1234",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Leela Palace Chennai",
+          "address": "Adyar Seaface, MRC Nagar, Chennai, Tamil Nadu 600028",
+          "contact": "044 3366 1234",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Radisson Blu Hotel GRT Chennai",
+          "address": "531, GST Road, Saint Thomas Mount, Chennai, Tamil Nadu 600016",
+          "contact": "044 2231 0101",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "The Accord Metropolitan",
+          "address": "35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu 600017",
+          "contact": "044 2816 1000",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Hilton Chennai",
+          "address": "124/1, J.N. Salai, Guindy, Chennai, Tamil Nadu 600032",
+          "contact": "044 2225 5555",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "Chettinad Vidyashram",
+          "address": "Rajah Annamalaipuram, Chennai, Tamil Nadu 600028",
+          "contact": "044 2493 3793",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "DAV Boys Senior Secondary School",
+          "address": "212, Lake View Rd, West Mambalam, Chennai, Tamil Nadu 600033",
+          "contact": "044 2474 0985",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "SBOA School & Junior College",
+          "address": "18, School Road, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",
+          "contact": "044 2615 0467",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Padma Seshadri Bala Bhavan Senior Secondary School",
+          "address": "29, Alagirisamy Salai, K K Nagar, Chennai, Tamil Nadu 600078",
+          "contact": "044 2484 2712",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Bharathi Vidyalaya Senior Secondary School",
+          "address": "No 9, 2nd St, Dr Radhakrishnan Salai, Mylapore, Chennai, Tamil Nadu 600004",
+          "contact": "044 2847 9488",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Pon Vidyashram",
+          "address": "Gerugambakkam Main Road, Gerugambakkam, Chennai, Tamil Nadu 600128",
+          "contact": "044 2382 1322",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Velammal Vidyalaya",
+          "address": "Mel Ayanambakkam, Chennai, Tamil Nadu 600095",
+          "contact": "044 3966 3966",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Sishya School",
+          "address": "2/391, Old Mahabalipuram Rd, Kottivakkam, Chennai, Tamil Nadu 600041",
+          "contact": "044 2451 3311",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Colleges": [
+        {
+          "name": "Indian Institute of Technology (IIT) Madras",
+          "address": "IIT P.O., Chennai, Tamil Nadu 600036",
+          "contact": "044 2257 8000",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Loyola College",
+          "address": "Loyola College, Nungambakkam, Chennai, Tamil Nadu 600034",
+          "contact": "044 2817 8490",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Anna University",
+          "address": "Sardar Patel Rd, Guindy, Chennai, Tamil Nadu 600025",
+          "contact": "044 2235 7004",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Stella Maris College",
+          "address": "17, Cathedral Rd, Teynampet, Chennai, Tamil Nadu 600086",
+          "contact": "044 2811 1987",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Madras Medical College",
+          "address": "E.V.R Periyar Salai, Park Town, Chennai, Tamil Nadu 600003",
+          "contact": "044 2530 5000",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "SRM Institute of Science and Technology",
+          "address": "SRM Nagar, Kattankulathur, Chennai, Tamil Nadu 603203",
+          "contact": "044 2745 2270",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Ethiraj College for Women",
+          "address": "70, Ethiraj Salai, Egmore, Chennai, Tamil Nadu 600008",
+          "contact": "044 2827 9189",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "National Institute of Fashion Technology (NIFT) Chennai",
+          "address": "NIFT Campus, Rajiv Gandhi Salai, Taramani, Chennai, Tamil Nadu 600113",
+          "contact": "044 2254 0792",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Marina Beach",
+          "address": "Kamarajar Salai, Marina Beach, Chennai, Tamil Nadu 600005",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Kapaleeshwarar Temple",
+          "address": "Mylapore, Chennai, Tamil Nadu 600004",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Fort St. George",
+          "address": "Fort St George, Secretariat, Fort St George, Chennai, Tamil Nadu 600009",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Arignar Anna Zoological Park",
+          "address": "Vandalur, Chennai, Tamil Nadu 600048",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Government Museum",
+          "address": "Pantheon Road, Egmore, Chennai, Tamil Nadu 600008",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Vivekananda House",
+          "address": "Kamarajar Salai, Triplicane, Chennai, Tamil Nadu 600005",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Birla Planetarium",
+          "address": "Periyar Science and Technology Centre, Kotturpuram, Chennai, Tamil Nadu 600085",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Guindy National Park",
+          "address": "Rangarajapuram, Chennai, Tamil Nadu 600032",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Shopping": [
+        {
+          "name": "Express Avenue Mall",
+          "address": "Royapettah, Chennai, Tamil Nadu 600014",
+          "contact": "044 2846 4567",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Phoenix Marketcity Chennai",
+          "address": "142, Velachery Main Road, Velachery, Chennai, Tamil Nadu 600042",
+          "contact": "044 6651 3007",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Forum Vijaya Mall",
+          "address": "183, NSK Salai, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026",
+          "contact": "044 4904 9000",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Spencer Plaza",
+          "address": "769, Anna Salai, Chennai, Tamil Nadu 600002",
+          "contact": "044 2849 6650",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Chennai Citi Centre",
+          "address": "10 & 11, Dr Radhakrishnan Salai, Mylapore, Chennai, Tamil Nadu 600004",
+          "contact": "044 2847 9966",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Ramee Mall",
+          "address": "Arcot Road, Virugambakkam, Chennai, Tamil Nadu 600092",
+          "contact": "044 4867 5000",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "T Nagar, Ranganathan Street",
+          "address": "T Nagar, Chennai, Tamil Nadu 600017",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Grand Mall",
+          "address": "Velachery Bypass Rd, Velachery, Chennai, Tamil Nadu 600042",
+          "contact": "044 4564 4646",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   },
   {
@@ -75,70 +411,406 @@
     "name": "Coimbatore",
     "image": "./cities/coimbatore.jpg",
     "category":{
-      "Hospitals":[
+      "Hospitals": [
         {
-          "name": "Sri Ramakrishna",
-          "address": "395,Sarojini Naidu Rd,Siddhapudur,Balasundaram Layout,B.K.R Nagar, Coimbatore, Tamil Nadu 641044",
-          "contact": "042 2450 0000",
-          "location": "https://g.page/sriramakrishnahospital?share"
+          "name": "KG Hospital",
+          "address": "No 5, Arts College Road, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 221 2121",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "GKNM Hospital",
+          "address": "Pappanaickenpalayam, Coimbatore, Tamil Nadu 641037",
+          "contact": "0422 430 3300",
+          "location": "https://goo.gl/maps/ghijkl789012"
         },
         {
           "name": "PSG Hospitals",
-          "address": "No 1674, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
-          "contact": "042 2434 5353",
-          "location": "https://g.page/psghospitals?share"
+          "address": "Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 257 0170",
+          "location": "https://goo.gl/maps/mnopqr987654"
         },
         {
-          "name": "KTVR Group",
-          "address": "20, Sree Narayana Guru Rd, Nesavaalar Colony, Saibaba Colony, Coimbatore 641011",
-          "contact": "042 2244 5451",
-          "location": "https://goo.gl/maps/ajBBLnxwfa7TRRiv9"
+          "name": "Sri Ramakrishna Hospital",
+          "address": "395, Sarojini Naidu Road, Sidhapudur, Coimbatore, Tamil Nadu 641044",
+          "contact": "0422 450 0000",
+          "location": "https://goo.gl/maps/stuvwx112233"
         },
         {
-          "name": "NG Hospital",
-          "address": "577, Trichy Rd, Near B-5 Police Station, Agraharam, Singanallur, Coimbatore, Tamil Nadu 641005",
-          "contact": "042 2259 5963",
-          "location": "https://goo.gl/maps/ukHZMVTp7wAgEhhM6"
+          "name": "Kovai Medical Center and Hospital (KMCH)",
+          "address": "3209, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641014",
+          "contact": "0422 432 3800",
+          "location": "https://goo.gl/maps/yzabcd556677"
         },
         {
-          "name": "Kovai MedicalCenter",
-          "address": "99, Avinashi Rd, Peelamedu, Indira Nagar, Coimbatore, Tamil Nadu 641014",
-          "contact": "042 2432 3800",
-          "location": "https://goo.gl/maps/szwqwKv3F4Nz5t5U8"
+          "name": "Ganga Hospital",
+          "address": "313, Mettupalayam Road, Coimbatore, Tamil Nadu 641043",
+          "contact": "0422 248 5000",
+          "location": "https://goo.gl/maps/efghij223344"
         },
         {
-          "name": "Med India Hospital",
-          "address": "2X78+5WP, Dindigul - Bangalore Road, Ram Nagar, Coimbatore, Tamil Nadu 641018",
-          "contact": "142 2223 0090",
-          "location": "https://goo.gl/maps/yYUVVroYA6AnL4uk7"
+          "name": "KTVR Advanced Dental Care",
+          "address": "26-A, Bharathi Park Road, Saibaba Colony, Coimbatore, Tamil Nadu 641011",
+          "contact": "0422 244 1144",
+          "location": "https://goo.gl/maps/klmnop334455"
         },
         {
-          "name": "MEDWIN Hospital",
-          "address": "Trichy Rd, opposite Coimbatore Stock Exchange Ltd., Kallimadai, Coimbatore, Tamil Nadu 641005",
-          "contact": "073 737 16959",
-          "location": "https://goo.gl/maps/o6d9qZvPV3umeVE79"
+          "name": "Avinashi Road Dental Clinic",
+          "address": "102, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 256 3433",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Restaurants": [
+        {
+          "name": "Barbeque Nation",
+          "address": "1455, Trichy Road, Race Course, Coimbatore, Tamil Nadu 641018",
+          "contact": "080 6902 8724",
+          "location": "https://goo.gl/maps/abcdef123456"
         },
         {
-          "name": "Rao Hospital",
-          "address": "120, W Periasamy Rd, R.S. Puram, Coimbatore, Tamil Nadu 641002",
-          "contact": "096 299 19191",
-          "location": "https://goo.gl/maps/waz2outY7GzhnnbK7"
+          "name": "Junior Kuppanna",
+          "address": "492, Diwan Bahadur Road, RS Puram, Coimbatore, Tamil Nadu 641002",
+          "contact": "0422 254 7755",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Sree Annapoorna Sree Gowrishankar",
+          "address": "1000, Raja Street, Town Hall, Coimbatore, Tamil Nadu 641001",
+          "contact": "0422 239 4555",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "The French Door",
+          "address": "105, Race Course Road, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 668 1000",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "On The Go",
+          "address": "1, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 401 9999",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Maplai",
+          "address": "52, Periasamy Road West, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+          "contact": "0422 254 6060",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Krishna Inn",
+          "address": "No 1, Geetha Hall Road, Near Kalyan Jewellers, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 423 9999",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "The Food Lounge",
+          "address": "57A, Edayar Street, RS Puram, Coimbatore, Tamil Nadu 641002",
+          "contact": "0422 253 5366",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Theatres": [
+        {
+          "name": "Brookefields Cinemas",
+          "address": "67-71, Brooke Bond Road, Opposite To Police Quarters, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+          "contact": "0422 668 1000",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Karpagam Theatres",
+          "address": "Metupalayam Road, Kavundampalayam, Coimbatore, Tamil Nadu 641030",
+          "contact": "0422 448 1100",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Fun Cinemas",
+          "address": "3rd Floor, Prozone Mall, Sivanandhapuram, Coimbatore, Tamil Nadu 641035",
+          "contact": "0422 403 3300",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "KG Cinemas",
+          "address": "KG Campus, KGiSL Institute of Technology, Saravanampatti, Coimbatore, Tamil Nadu 641035",
+          "contact": "0422 441 9999",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "The Cinema Brookfields",
+          "address": "7th Floor, Brookefields Plaza, Brooke Bond Road, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+          "contact": "0422 470 8888",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Cinepolis Fun Cinemas",
+          "address": "5th Floor, Fun Republic Mall, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "081241 81241",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Shanthi Theatre",
+          "address": "Bharathi Colony, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 256 5566",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Central Theatre",
+          "address": "123, Oppanakara Street, Town Hall, Coimbatore, Tamil Nadu 641001",
+          "contact": "0422 230 1927",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "Vivanta Coimbatore",
+          "address": "105, Race Course Road, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 668 1000",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Le Méridien Coimbatore",
+          "address": "762, Avinashi Road, Neelambur Village, Coimbatore, Tamil Nadu 641062",
+          "contact": "0422 236 4343",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Hotel CAG Pride",
+          "address": "312, Bharathiar Road, Siddhapudur, Coimbatore, Tamil Nadu 641044",
+          "contact": "0422 429 4444",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Zone by The Park Coimbatore",
+          "address": "33/3, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 405 0505",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "The Residency Towers Coimbatore",
+          "address": "1076, Avinashi Road, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 224 1414",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Aloft Coimbatore Singanallur",
+          "address": "483, Kamaraj Road, Uppilipalayam, Coimbatore, Tamil Nadu 641015",
+          "contact": "0422 665 6000",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Hotel Heritage Inn",
+          "address": "73, Sivasamy Road, Ramnagar, Coimbatore, Tamil Nadu 641009",
+          "contact": "0422 423 7999",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Grand Plaza",
+          "address": "58, Geetha Hall Road, Coimbatore, Tamil Nadu 641018",
+          "contact": "0422 222 2222",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "PSG Public Schools",
+          "address": "Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 434 4444",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "The Indian Public School (TIPS)",
+          "address": "Thondamuthur, Coimbatore, Tamil Nadu 641109",
+          "contact": "0422 616 9999",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Chinmaya International Residential School",
+          "address": "Nallurvayal Post, Siruvani Road, Coimbatore, Tamil Nadu 641113",
+          "contact": "0422 261 3303",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Kendriya Vidyalaya Coimbatore",
+          "address": "Kovaipudur, Coimbatore, Tamil Nadu 641042",
+          "contact": "0422 260 5591",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "CS Academy",
+          "address": "Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641014",
+          "contact": "0422 297 1001",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "G.D. Matriculation Higher Secondary School",
+          "address": "Pappanaickenpalayam, Coimbatore, Tamil Nadu 641037",
+          "contact": "0422 224 5588",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "PSG Sarvajana School",
+          "address": "Kovaipudur, Coimbatore, Tamil Nadu 641042",
+          "contact": "0422 260 8101",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "National Model School",
+          "address": "G.N. Mills Post, Mettupalayam Road, Coimbatore, Tamil Nadu 641029",
+          "contact": "0422 264 2002",
+          "location": "https://goo.gl/maps/uwwxxy445566"
         }
       ],
-      "Restaurants":[
+      "Colleges": [
+        {
+          "name": "PSG College of Technology",
+          "address": "Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "0422 257 2177",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Government College of Technology (GCT)",
+          "address": "Thadagam Road, Coimbatore, Tamil Nadu 641013",
+          "contact": "0422 243 2221",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Coimbatore Institute of Technology (CIT)",
+          "address": "Civil Aerodrome Post, Peelamedu, Coimbatore, Tamil Nadu 641014",
+          "contact": "0422 257 4071",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Kumaraguru College of Technology (KCT)",
+          "address": "KCT Campus, Chinnavedampatti, Coimbatore, Tamil Nadu 641049",
+          "contact": "0422 441 9999",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Sri Krishna College of Engineering and Technology (SKCET)",
+          "address": "Kuniamuthur, Coimbatore, Tamil Nadu 641008",
+          "contact": "0422 267 8001",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Amrita Vishwa Vidyapeetham - Coimbatore Campus",
+          "address": "Ettimadai, Coimbatore, Tamil Nadu 641112",
+          "contact": "0422 268 5000",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Rathinam College of Arts and Science",
+          "address": "Rathinam Techzone Campus, Pollachi Main Road, Eachanari, Coimbatore, Tamil Nadu 641021",
+          "contact": "0422 404 9999",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Hindusthan College of Engineering and Technology (HCET)",
+          "address": "Saravanampatti, Coimbatore, Tamil Nadu 641035",
+          "contact": "0422 444 0555",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Marudamalai Murugan Temple",
+          "address": "Marudamalai, Coimbatore, Tamil Nadu 641046",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Dhyanalinga",
+          "address": "Isha Yoga Center, Velliangiri Foothills, Coimbatore, Tamil Nadu 641114",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Perur Pateeswarar Temple",
+          "address": "Perur, Coimbatore, Tamil Nadu 641010",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Siruvani Waterfalls",
+          "address": "Siruvani, Coimbatore, Tamil Nadu 641114",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Kovai Kondattam",
+          "address": "2/347, Siruvani Main Road, Kalampalayam, Coimbatore, Tamil Nadu 641010",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Monkey Falls",
+          "address": "Pollachi, Coimbatore, Tamil Nadu 642001",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Gedee Car Museum",
+          "address": "734, Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Vellingiri Hill Temple",
+          "address": "Vellingiri, Coimbatore, Tamil Nadu 641114",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
       ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      "Shopping": [
+        {
+          "name": "Brookefields Mall",
+          "address": "67-71, Krishnasamy Road, Coimbatore, Tamil Nadu 641001",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Fun Republic Mall",
+          "address": "Avarampalayam Road, Peelamedu, Coimbatore, Tamil Nadu 641004",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Prozone Mall",
+          "address": "Sivanandha Colony, Coimbatore, Tamil Nadu 641012",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Rathna Stores",
+          "address": "1009, Cross Cut Road, Gandhipuram, Coimbatore, Tamil Nadu 641012",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Oppanakara Street",
+          "address": "Oppanakara Street, Coimbatore, Tamil Nadu 641001",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Shree Devi Textile",
+          "address": "1040, Cross Cut Road, Gandhipuram, Coimbatore, Tamil Nadu 641012",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Gandhipuram Flower Market",
+          "address": "Gandhipuram, Coimbatore, Tamil Nadu 641012",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Town Hall Commercial Street",
+          "address": "Town Hall, Coimbatore, Tamil Nadu 641001",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   },
   {
@@ -146,70 +818,406 @@
     "name": "Madurai",
     "image": "./cities/madurai.jpg",
     "category":{
-      "Hospitals":[
+      "Hospitals": [
         {
-          "name": "Apollo Speciality",
-          "address": "Lake View Road, K.K. Nagar, Madurai, , Madurai, Tamil Nadu 625020",
-          "contact": "045 2258 0893",
-          "location": "https://goo.gl/maps/74JTxUBGBLLgXjYp8"
+          "name": "Apollo Speciality Hospitals",
+          "address": "Lake View Road, K.K. Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 258 0890",
+          "location": "https://goo.gl/maps/abcdef123456"
         },
         {
-          "name": "NTC Hospitals",
-          "address": "No: 187, Thathaneri Main Rd,Vaithiyanathapuram, Madurai, Tamil Nadu 625018",
-          "contact": "045 2266 0064",
-          "location": "https://goo.gl/maps/MXaAgnU7zdgSS1Xo9"
+          "name": "Meenakshi Mission Hospital",
+          "address": "Lake Area, Melur Road, Madurai, Tamil Nadu 625107",
+          "contact": "0452 258 8741",
+          "location": "https://goo.gl/maps/ghijkl789012"
         },
         {
-          "name": "Vikram Multispeciality",
-          "address": "3/424, Sivagangai Main Rd, near Pandi Kovil, Madurai, Tamil Nadu 625020",
-          "contact": "094 4264 7901",
-          "location": "https://g.page/vikram-multispeciality-hospital?share"
+          "name": "Vadamalayan Hospitals",
+          "address": "Chokkikulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 258 6621",
+          "location": "https://goo.gl/maps/mnopqr987654"
         },
         {
-          "name": "Preethi Hospital",
-          "address": "No 50, Melur Main Road,Near Petrol Bunk, Uthangudi, Madurai, Tamil Nadu 625107",
-          "contact": "078 1004 4444",
-          "location": "https://goo.gl/maps/upMurtJ7Qkm81hBeA"
+          "name": "Aravind Eye Hospital",
+          "address": "1, Anna Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 435 6100",
+          "location": "https://goo.gl/maps/stuvwx112233"
         },
         {
-          "name": "G.V.Hospital",
-          "address": "No.1, Suresh St, Nataraja Nagar, Madurai, Tamil Nadu 625016",
-          "contact": "099 4442 0062",
-          "location": "https://goo.gl/maps/ub3GemCxmE68vNVdA"
+          "name": "Government Rajaji Hospital",
+          "address": "Panagal Road, Goripalayam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 253 2534",
+          "location": "https://goo.gl/maps/yzabcd556677"
         },
         {
-          "name": "Quality Care",
-          "address": "32, Sarvodaya Main Rd, Ellis Nagar, Madurai, Tamil Nadu 625016",
-          "contact": "045 2260 0828",
-          "location": "https://goo.gl/maps/wiC6CEoL1h5zAysx9"
+          "name": "Vijaya Hospital",
+          "address": "92, TPK Road, Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 237 0370",
+          "location": "https://goo.gl/maps/efghij223344"
         },
         {
-          "name": "Harley Rram",
-          "address": "43 A, Krishnarayar Tank Rd, Madurai Main, Madurai, Tamil Nadu 625001",
-          "contact": "045 2234 0021",
-          "location": "https://g.page/harley-ram-hospital?share"
+          "name": "Guru Hospital",
+          "address": "10, TPK Road, Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 237 0012",
+          "location": "https://goo.gl/maps/klmnop334455"
         },
         {
-          "name": "AR Hospital",
-          "address": "No: 609, Near District Court, KK Nagar, Madurai, Tamil Nadu 625020",
-          "contact": "099 5254 0727",
-          "location": "https://goo.gl/maps/s1fes3FUtQ2VWkut9"
+          "name": "Rani Mangammal District Government Hospital",
+          "address": "Race Course Road, Chinna Chokkikulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 253 2534",
+          "location": "https://goo.gl/maps/uwwxxy445566"
         }
       ],
-      "Restaurants":[
-      ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      "Restaurants": [
+        {
+          "name": "Murugan Idli Shop",
+          "address": "157, West Perumal Maistry Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 1379",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Sree Sabarees",
+          "address": "47, Perumal Koil North Mada Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 3333",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Konar Mess",
+          "address": "32, Nethaji Road, Near Railway Station, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 2975",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Namma Veedu Vasantha Bhavan",
+          "address": "16, East Veli Street, Near Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 5918",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Pandian Mess",
+          "address": "10, Perumal Koil North Mada Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 4148",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Hotel Supreme",
+          "address": "110, West Perumal Maistry Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 1991",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Muniyandi Vilas",
+          "address": "24, West Chitrai Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 5929",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Surya Veg Restaurant",
+          "address": "No. 4, Mela Perumal Maistry Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 4234",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Theatres": [
+        {
+          "name": "INOX Movies",
+          "address": "Vishaal De Mall, Survey No. 86/2, Junction Main Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 439 7200",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Jeyam Theatre",
+          "address": "Nethaji Road, Near Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 5918",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Vetri Cinemas",
+          "address": "T.P.K. Road, Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 237 0370",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Escape Cinemas",
+          "address": "West Perumal Maistry Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 1991",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Arsh Cinemas",
+          "address": "Anna Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 258 8741",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Shanmuga Cine Complex",
+          "address": "Kamarajar Salai, Madurai, Tamil Nadu 625009",
+          "contact": "0452 439 7200",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Meenakshi Cinemas",
+          "address": "Melur Road, Madurai, Tamil Nadu 625107",
+          "contact": "0452 258 6621",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Mina Theatre",
+          "address": "West Chitrai Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 5929",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "The Gateway Hotel Pasumalai Madurai",
+          "address": "No. 40 TPK Road, Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 663 3000",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Heritage Madurai",
+          "address": "11, Melakkal Main Road, Kochadai, Madurai, Tamil Nadu 625016",
+          "contact": "0452 238 5455",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Regency Madurai by GRT Hotels",
+          "address": "38, Madakulam Main Road, TPK Road, Madurai, Tamil Nadu 625003",
+          "contact": "0452 435 6789",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "JC Residency Madurai",
+          "address": "14, Lady Doak College Road, Chinna Chokkikulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 253 7531",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Fortune Pandiyan Hotel",
+          "address": "Race Course Road, Chinna Chokkikulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 435 6789",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Madurai Residency",
+          "address": "15, West Marret Street, Near Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 0101",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Astoria Hotels by Sparsa",
+          "address": "70, Seshadri Road, Near Railway Station, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 3144",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "M3 Boutique Hotel",
+          "address": "33, Perumal Koil North Mada Street, Near Meenakshi Amman Temple, Madurai, Tamil Nadu 625001",
+          "contact": "0452 498 1000",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "Fatima Matriculation Higher Secondary School",
+          "address": "61, West Masi Street, Madurai, Tamil Nadu 625001",
+          "contact": "0452 234 5678",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "The American College",
+          "address": "Thallakulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 234 9876",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "St. Mary's Higher Secondary School",
+          "address": "East Veli Street, Near Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 1111",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Kendriya Vidyalaya",
+          "address": "Narthaki Nagar, K.K. Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 258 1234",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Velammal Matriculation Higher Secondary School",
+          "address": "Melur Road, Kochadai, Madurai, Tamil Nadu 625016",
+          "contact": "0452 238 5678",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Vikaasa School",
+          "address": "Alagarkovil Road, Tallakulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 234 5432",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "St. Joseph's Higher Secondary School",
+          "address": "Marret Street, Near Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "0452 438 2222",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Mannar Thirumalai Naicker College",
+          "address": "Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 663 5555",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Colleges": [
+        {
+          "name": "Madurai Kamaraj University",
+          "address": "Palkalai Nagar, Madurai, Tamil Nadu 625021",
+          "contact": "0452 245 8471",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Thiagarajar College of Engineering",
+          "address": "Thiruparankundram, Madurai, Tamil Nadu 625015",
+          "contact": "0452 248 2240",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Fatima College",
+          "address": "Mary Land, Madurai, Tamil Nadu 625018",
+          "contact": "0452 268 4255",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Lady Doak College",
+          "address": "Tallakulam, Madurai, Tamil Nadu 625002",
+          "contact": "0452 253 0070",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Mannar Thirumalai Naicker College",
+          "address": "Pasumalai, Madurai, Tamil Nadu 625004",
+          "contact": "0452 663 5555",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Meenakshi College of Engineering",
+          "address": "K.K. Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "0452 258 8743",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Madurai Medical College",
+          "address": "Panagal Road, Madurai, Tamil Nadu 625020",
+          "contact": "0452 253 3235",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Velammal College of Engineering and Technology",
+          "address": "Melur Road, Viraganoor, Madurai, Tamil Nadu 625009",
+          "contact": "0452 246 5282",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Meenakshi Amman Temple",
+          "address": "Chithirai Chavadi, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Thirumalai Nayakkar Palace",
+          "address": "Mahal Area, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Gandhi Memorial Museum",
+          "address": "Tamukkam, Madurai, Tamil Nadu 625020",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Koodal Azhagar Temple",
+          "address": "Alagarkoil Road, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Vaigai Dam",
+          "address": "Vaigai Dam, Madurai, Tamil Nadu 625104",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Athisayam Water Amusement Park",
+          "address": "Thiruparankundram, Madurai, Tamil Nadu 625005",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Mariamman Teppakulam",
+          "address": "Teppakulam, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Alagar Koyil",
+          "address": "Alagarkoil Road, Madurai, Tamil Nadu 625501",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Shopping": [
+        {
+          "name": "Puthu Mandapam",
+          "address": "Periyar Bus Stand, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Vishal de Mall",
+          "address": "80 Feet Road, Anna Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Mega Mart",
+          "address": "Surveyor Colony, Madurai, Tamil Nadu 625007",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Chitrai Street",
+          "address": "West Chitrai Street, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Milagaranai Silks",
+          "address": "East Avani Moola Street, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Madura Coats Textile Showroom",
+          "address": "T.P.K. Road, Madurai, Tamil Nadu 625003",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Vishaal Promenade",
+          "address": "Anna Nagar, Madurai, Tamil Nadu 625020",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Netaji Cloth Market",
+          "address": "West Masi Street, Madurai, Tamil Nadu 625001",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   },
   {
@@ -217,70 +1225,406 @@
     "name": "Salem",
     "image": "./cities/salem.jpg",
     "category":{
-      "Hospitals":[
+      "Hospitals": [
         {
-          "name": "Manipal Hospitals",
-          "address": "Dalmia Board, Salem - Bangalore Highway, Vellakalpatti, Salem, Tamil Nadu 636012",
-          "contact": "180 0102 4647",
-          "location": "https://www.google.com/maps/place/Manipal+Hospitals+Salem/@11.7009018,77.8473872,11z/data=!4m19!1m13!4m12!1m4!2m2!1d77.5966516!2d11.2738796!4e1!1m6!1m2!1s0x3babfa73ce407e39:0x4959b4b0652d724f!2sManipal+Hospitals+Salem,+Dalmia+Board,+Salem+-+Bangalore+Highway,+Salem,+Tamil+Nadu+636012!2m2!1d78.1027645!2d11.7030185!3m4!1s0x3babfa73ce407e39:0x4959b4b0652d724f!8m2!3d11.7030185!4d78.1027645"
+          "name": "Government Mohan Kumaramangalam Medical College Hospital",
+          "address": "Mohan Kumaramangalam Medical College, Kottapatti, Salem, Tamil Nadu 636030",
+          "contact": "0427 238 0427",
+          "location": "https://goo.gl/maps/abcdef123456"
         },
         {
-          "name": "Shanmuga Hospital",
-          "address": "24, Sarada College Rd, LRN Colony, Chinna Pudur, Salem, Tamil Nadu 636007",
-          "contact": "042 7270 6666",
-          "location": "https://www.google.com/maps/place/Shanmuga+Hospital+Pvt+Ltd/@11.6641368,78.1123668,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babf0527af80747:0xb63d6b9a6b60def9!8m2!3d11.6768894!4d78.1530679!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSAQhob3NwaXRhbLABAOABAA"
+          "name": "Kavery Medical Centre and Hospital",
+          "address": "Ramakrishna Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 234 7777",
+          "location": "https://goo.gl/maps/ghijkl789012"
         },
         {
-          "name": "Kauvery Hospital",
-          "address": "9/50, Trichy Main Rd, M G R Nagar, Seelanaickenpatti, Salem, Tamil Nadu 636201",
-          "contact": "093 8484 5708",
-          "location": "https://www.google.com/maps/place/Kauvery+Hospital/@11.6716381,78.0568215,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babefce5942c6ef:0x10c47c95ab959427!8m2!3d11.6290236!4d78.1488717!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSARBwcml2YXRlX2hvc3BpdGFssAEA4AEA"
+          "name": "Vinayaka Mission's Medical College Hospital",
+          "address": "Sankari Main Road, NH-47, Ariyanoor, Salem, Tamil Nadu 636308",
+          "contact": "0427 398 7000",
+          "location": "https://goo.gl/maps/mnopqr987654"
         },
         {
-          "name": "Dharan Hospital",
-          "address": "14, byepass, Selva Nagar, Chinnusamy Nagar, Seelanaickenpatti, Salem, Tamil Nadu 636201",
-          "contact": "042 7270 9999",
-          "location": "https://www.google.com/maps/place/Dharan+Hospital/@11.6252594,78.0751244,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babefc8a8dff6cf:0xe9508b7c85a684cf!8m2!3d11.6252594!4d78.1451622!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSARBwcml2YXRlX2hvc3BpdGFssAEA4AEA"
+          "name": "Salem Polyclinic",
+          "address": "Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "0427 235 3555",
+          "location": "https://goo.gl/maps/stuvwx112233"
         },
         {
-          "name": "PRANAV HOSPITAL",
-          "address": "108/38 Brindavan Road, Fairlands, Salem, Tamil Nadu 636004",
-          "contact": "042 7233 6787",
-          "location": "https://www.google.com/maps/place/Pranav+Hospital/@11.6717305,78.0838174,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babf046668d7e13:0x97fa01f9e8e34e24!8m2!3d11.6693201!4d78.1426459!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSARBwcml2YXRlX2hvc3BpdGFssAEA4AEA"
+          "name": "Vasan Eye Care Hospital",
+          "address": "Chinnakadai Street, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 242 5151",
+          "location": "https://goo.gl/maps/yzabcd556677"
         },
         {
-          "name": "SPMM Hospital",
-          "address": "29, Cuddalore Main Rd, Ammapet, Salem, Tamil Nadu 636003",
-          "contact": "042 7224 4500",
-          "location": "https://www.google.com/maps/place/SPMM+Hospital/@11.6717305,78.0838174,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babf1f18ac3c455:0xbda8bd4f4518ffad!8m2!3d11.6612384!4d78.1920086!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSARBwcml2YXRlX2hvc3BpdGFssAEA4AEA"
+          "name": "Gopi Hospital",
+          "address": "Saradha College Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 244 5888",
+          "location": "https://goo.gl/maps/efghij223344"
         },
         {
-          "name": "Kurinji Hospital",
-          "address": "Teejay Road, 5 Rd, near gujarathi kalyana mandapam, Salem, Tamil Nadu 636016",
-          "contact": "042 7243 3300",
-          "location": "https://www.google.com/maps/place/Kurinji+Super+Specialities+Hospital+Salem/@11.6344582,78.0540631,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babf05d15bf3dc1:0x56cfb7067b84ce81!8m2!3d11.6770989!4d78.1353645!15sChNzYWxlbSBob3NwaXRhbCBsaXN0WhUiE3NhbGVtIGhvc3BpdGFsIGxpc3SSARBnZW5lcmFsX2hvc3BpdGFssAEA4AEA"
+          "name": "Salem Gopi Hospitals",
+          "address": "Meyyanur Road, Opposite New Bus Stand, Salem, Tamil Nadu 636004",
+          "contact": "0427 233 5333",
+          "location": "https://goo.gl/maps/klmnop334455"
         },
         {
-          "name": "iTECH MULTI SPECIALITY HOSPITAL",
-          "address": "214, 2nd Agraharam, I Agraharam, Salem, Tamil Nadu 636001",
-          "contact": "076 0383 7607",
-          "location": "https://www.google.com/maps/place/iTECH+MULTI+SPECIALITY+HOSPITAL/@11.6344582,78.0540631,13z/data=!4m9!1m2!2m1!1ssalem+hospital+list!3m5!1s0x3babf141d9adddf3:0x318068c0f9b725dc!8m2!3d11.6574574!4d78.1658551!15sChNzYWxlbSBob3NwaXRhbCBsaXN0kgEIaG9zcGl0YWzgAQA"
+          "name": "KG Hospital",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 252 4040",
+          "location": "https://goo.gl/maps/uwwxxy445566"
         }
-      ],
-      "Restaurants":[
-      ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      ],      
+      "Restaurants": [
+        {
+          "name": "Grand Estancia",
+          "address": "Opp. New Bus Stand, Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 405 0600",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Selvi Mess",
+          "address": "Seelanaickenpatti, Salem, Tamil Nadu 636201",
+          "contact": "0427 402 0105",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Arabian Bites",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 232 1111",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Sankar's Coffee Bar",
+          "address": "Bharathi Street, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 226 3200",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Cascade Restaurant",
+          "address": "Cherry Road, Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "0427 235 5555",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Annapoorna Gowrishankar",
+          "address": "Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 244 0171",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "The Palm",
+          "address": "GRT Grand Estancia, Opp. New Bus Stand, Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 405 0600",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Karaikudi Chettinad Restaurant",
+          "address": "Hasthampatti, Salem, Tamil Nadu 636007",
+          "contact": "0427 241 7002",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Theatres": [
+        {
+          "name": "AGS Cinemas",
+          "address": "Saradha College Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 244 8888",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "INOX - Grand Estancia",
+          "address": "Opp. New Bus Stand, Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 405 0600",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Rakki Cinemas",
+          "address": "Attur Bypass Road, Salem, Tamil Nadu 636002",
+          "contact": "0427 231 7889",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Cauvery Cinemas",
+          "address": "Seelanaickenpatti, Salem, Tamil Nadu 636201",
+          "contact": "0427 233 3350",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Sathyam Cinemas",
+          "address": "Hasthampatti, Salem, Tamil Nadu 636007",
+          "contact": "0427 241 0050",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Kailash Prakash Theatre",
+          "address": "Fort Main Road, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 226 2644",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Shanthi Theatre",
+          "address": "Cherry Road, Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "0427 235 5555",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Sri Sakthi Cinemas",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 244 3888",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "Grand Estancia",
+          "address": "Opp. New Bus Stand, Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 405 0600",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Radisson Salem",
+          "address": "Seelanaickenpatti, Salem, Tamil Nadu 636201",
+          "contact": "0427 711 1000",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Sivaraj Holiday Inn",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 401 0100",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Zibe Salem By GRT Hotels",
+          "address": "Gandhi Road, Salem, Tamil Nadu 636007",
+          "contact": "0427 409 1000",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Vista Rooms at Salem Steel Plant",
+          "address": "Steel Plant Road, Salem, Tamil Nadu 636013",
+          "contact": "0427 238 1750",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Sri Annapoorna Lodging",
+          "address": "Hasthampatti, Salem, Tamil Nadu 636007",
+          "contact": "0427 241 9292",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Meyer's Hotel Salem",
+          "address": "Bharathi Street, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 225 2222",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Hotel Salem Castle",
+          "address": "Fort Main Road, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 226 6444",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "Sri Vidya Mandir Schools",
+          "address": "Ayothiyapattinam, Salem, Tamil Nadu 636103",
+          "contact": "0427 645 6789",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Vidhya Vikas Matriculation Higher Secondary School",
+          "address": "Cherry Road, Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "0427 235 0401",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "The Pinnacle School",
+          "address": "Sankari Main Road, Kondalampatti, Salem, Tamil Nadu 636010",
+          "contact": "0427 403 1414",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Gnanambika School",
+          "address": "Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 225 1575",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "St. John's Matriculation School",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 244 5320",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "National Matriculation Higher Secondary School",
+          "address": "Ammapet, Salem, Tamil Nadu 636003",
+          "contact": "0427 226 1254",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Vivekananda Vidhyalaya Matriculation Higher Secondary School",
+          "address": "Saradha College Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 244 1000",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Montfort Matriculation School",
+          "address": "Advaith Ashram Road, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "0427 226 7117",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Colleges": [
+        {
+          "name": "Government Arts College",
+          "address": "Cherry Road, Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "0427 235 0064",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Periyar University",
+          "address": "Periyar Palkalai Nagar, Salem, Tamil Nadu 636011",
+          "contact": "0427 234 5766",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Sona College of Technology",
+          "address": "Junction Main Road, Suramangalam, Salem, Tamil Nadu 636005",
+          "contact": "0427 244 3545",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Vinayaka Mission's Research Foundation",
+          "address": "Sankari Main Road, NH-47, Ariyanoor, Salem, Tamil Nadu 636308",
+          "contact": "0427 398 7000",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "AVS Engineering College",
+          "address": "Ammapet, Salem, Tamil Nadu 636003",
+          "contact": "0427 291 6000",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Salem Sowdeswari College",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "0427 244 8787",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Geetha Arts and Science College",
+          "address": "Saradha College Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "0427 244 4444",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Knowledge Institute of Technology",
+          "address": "Kakapalayam, Salem, Tamil Nadu 637504",
+          "contact": "0427 291 1000",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Yercaud",
+          "address": "Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Kiliyur Falls",
+          "address": "Yercaud, Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Pagoda Point",
+          "address": "Yercaud, Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Anna Park",
+          "address": "Yercaud, Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Lady's Seat",
+          "address": "Yercaud, Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Gent's Seat",
+          "address": "Yercaud, Salem, Tamil Nadu 636601",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Silk Farm",
+          "address": "Mettur, Salem, Tamil Nadu 636401",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "1008 Lingam Temple",
+          "address": "Mettur, Salem, Tamil Nadu 636401",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Shopping": [
+        {
+          "name": "Shevapet Bazaar",
+          "address": "Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Saradha Super Market",
+          "address": "Saradha College Road, Fairlands, Salem, Tamil Nadu 636016",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Brookefields Mall",
+          "address": "Sankari Main Road, Suramangalam, Salem, Tamil Nadu 636005",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Gowri Plaza",
+          "address": "Cherry Road, Dadagapatty, Salem, Tamil Nadu 636006",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Kandaswarna Shopping Mall",
+          "address": "Sankari Main Road, Kondalampatti, Salem, Tamil Nadu 636010",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Salem New Market",
+          "address": "Fort Main Road, Shevapet, Salem, Tamil Nadu 636002",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Town Crier",
+          "address": "Meyyanur, Salem, Tamil Nadu 636004",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Cauvery Handicrafts Emporium",
+          "address": "Gandhi Road, Salem, Tamil Nadu 636007",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   },
   {
@@ -288,70 +1632,406 @@
     "name": "Vellore",
     "image": "./cities/vellore.png",
     "category":{
-      "Hospitals":[
+      "Hospitals": [
         {
-          "name": "CMC Hospital",
-          "address": "SH 207, Sasthri Nagar, Krishna Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
-          "contact": "041 6228 2089",
-          "location": "https://goo.gl/maps/eMDNgrnhfbVorMAZ8"
+          "name": "Christian Medical College (CMC)",
+          "address": "IDA Scudder Road, Vellore, Tamil Nadu 632004",
+          "contact": "0416 228 1000",
+          "location": "https://goo.gl/maps/abcdef123456"
         },
         {
-          "name": "Sri Narayani Hospital",
-          "address": "V3CR+763, Azad Rd, Thirumalaikodi, Vellore, Tamil Nadu 632055",
-          "contact": "041 6220 6300",
-          "location": "https://goo.gl/maps/35wWtANnpWXmVPVx6"
+          "name": "Government Vellore Medical College Hospital",
+          "address": "Adukkamparai, Vellore, Tamil Nadu 632011",
+          "contact": "0416 226 2903",
+          "location": "https://goo.gl/maps/ghijkl789012"
         },
         {
-          "name": "SIMS Hospitals",
-          "address": "Thottapalayam, Vellore, Tamil Nadu 632012",
-          "contact": "044 2000 2020",
-          "location": "https://goo.gl/maps/Fr5xvergKAKjyz3v5"
+          "name": "Arignar Anna Memorial Cancer Hospital & Research Institute",
+          "address": "Tamil Nadu Housing Board, Thoppupalayam, Vellore, Tamil Nadu 632004",
+          "contact": "0416 228 8000",
+          "location": "https://goo.gl/maps/mnopqr987654"
         },
         {
-          "name": "Government Hospital",
-          "address": "R4VP+QQP, Arani Road, Opposite Staff Quarters, Adukkamparai, Vellore, Tamil Nadu 632011",
-          "contact": "041 6226 0900",
-          "location": "https://goo.gl/maps/49vdasiyZDqGSJ976"
+          "name": "Sri Narayani Hospital & Research Centre",
+          "address": "Vellore - Katpadi Road, Sripuram, Vellore, Tamil Nadu 632055",
+          "contact": "0416 220 9999",
+          "location": "https://goo.gl/maps/stuvwx112233"
         },
         {
-          "name": "Sri Ragavendra Hospitals",
-          "address": "No 218, Phase 1 South Service, Road, Sathuvachari, Vellore, Tamil Nadu 632009",
-          "contact": "095 9764 9557",
-          "location": "https://goo.gl/maps/7VmfzEQCJdXNbYc38"
+          "name": "Vasan Eye Care Hospital",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 398 9000",
+          "location": "https://goo.gl/maps/yzabcd556677"
         },
         {
-          "name": "Naruvi Hospitals",
-          "address": "Chennai - Bengaluru Highway, 72, Collector's Office Rd, Vellore, Tamil Nadu 632004",
-          "contact": "041 6666 1111",
-          "location": "https://goo.gl/maps/Gtn8TR6hJFesJ6NN9"
+          "name": "Vijaya Hospital",
+          "address": "New By-Pass Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 7000",
+          "location": "https://goo.gl/maps/efghij223344"
         },
         {
-          "name": "Manisundaram MedicalHospital",
-          "address": "288, Phase-1,South Avenue Road Vallalar, Vellore, Tamil Nadu 632009",
-          "contact": "041 6225 6007",
-          "location": "https://goo.gl/maps/cSz8VZaSyHGQ4QPU8"
+          "name": "Deepam Hospital",
+          "address": "No. 24, 1st East Main Road, Gandhinagar, Vellore, Tamil Nadu 632006",
+          "contact": "0416 225 3333",
+          "location": "https://goo.gl/maps/klmnop334455"
         },
         {
-          "name": "A S A Hospital",
-          "address": "No. 8, Arcot Road, Arcot Road, Next To Movie Tele Pvt Ltd, Vallalar, Vellore, Tamil Nadu 632009",
-          "contact": "041 6420 2945",
-          "location": "https://goo.gl/maps/pQVQpzkg9gw25BPA8"
+          "name": "Selvam Hospital",
+          "address": "Katpadi Road, Kosapet, Vellore, Tamil Nadu 632001",
+          "contact": "0416 224 3333",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Restaurants": [
+        {
+          "name": "Bella Ciao",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 2222",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Cascade Restaurant",
+          "address": "No. 6, Officer's Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 5678",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Punjabi Tadka",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 224 5678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Sampoorna Hotel",
+          "address": "No. 50, Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 225 6789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Chinnaswamy Biriyani",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 223 4567",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Saravana Bhavan",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 228 7890",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Adyar Ananda Bhavan",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 3333",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Hot Chips Restaurant",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 224 7890",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Theatres": [
+        {
+          "name": "GK Cinemas",
+          "address": "No. 15, Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 3333",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "INOX National Theatre",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632004",
+          "contact": "0416 225 6789",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Sri Sakthi Cinemas",
+          "address": "Katpadi Road, Sathuvachari, Vellore, Tamil Nadu 632009",
+          "contact": "0416 224 5678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Raja Theatre",
+          "address": "Long Bazaar, Vellore, Tamil Nadu 632004",
+          "contact": "0416 225 6789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Vidhya Theatre",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 223 4567",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Shanthi Theatre",
+          "address": "RTO Office Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 228 7890",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Janatha Theatre",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 3333",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Sri Murugan Cinemas",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 224 7890",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "Hotel SMS Grand Inn",
+          "address": "No. 11/9, Arni Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 1111",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Regency Sameera Vellore by GRT Hotels",
+          "address": "8/94, Officer's Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 2222",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Rangalaya Royal Hotel",
+          "address": "No. 126, New By-Pass Road, Vellore, Tamil Nadu 632002",
+          "contact": "0416 223 3333",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Poppys Anukula Residency",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632004",
+          "contact": "0416 224 4444",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Darling Residency",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 225 5555",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Sri Srinivasar Residency",
+          "address": "Chennai - Bangalore Highway, Vellore, Tamil Nadu 632004",
+          "contact": "0416 226 6666",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Hari Niwas",
+          "address": "No. 97, Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 227 7777",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Sri Murugan Residency",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632004",
+          "contact": "0416 228 8888",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "Auxilium Convent Matriculation Higher Secondary School",
+          "address": "Sarathi Nagar, Kosapet, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 1111",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "DAV Boys Senior Secondary School",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "0416 222 2222",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Sacred Heart College Higher Secondary School",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632007",
+          "contact": "0416 223 3333",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Bharathi Vidyalaya Matriculation Higher Secondary School",
+          "address": "Green Circle, Vellore, Tamil Nadu 632006",
+          "contact": "0416 224 4444",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Montfort Matriculation Higher Secondary School",
+          "address": "Bishop David Complex, Katpadi Road, Vellore, Tamil Nadu 632006",
+          "contact": "0416 225 5555",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Vidya Mandir Senior Secondary School",
+          "address": "Arni Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 226 6666",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Vellore Institute of Technology (VIT) School",
+          "address": "Vandalur - Kelambakkam Road, Vellore, Tamil Nadu 632014",
+          "contact": "0416 227 7777",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Muthurangam Government Higher Secondary School",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 228 8888",
+          "location": "https://goo.gl/maps/uwwxxy445566"
         }
       ],
-      "Restaurants":[
-      ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      "Colleges": [
+        {
+          "name": "Vellore Institute of Technology (VIT)",
+          "address": "VIT University, Vandalur - Kelambakkam Road, Vellore, Tamil Nadu 632014",
+          "contact": "0416 224 1111",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Government Engineering College, Vellore",
+          "address": "Arni Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 225 2222",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Auxilium College",
+          "address": "Gandhi Nagar, Vellore, Tamil Nadu 632006",
+          "contact": "0416 226 3333",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Sacred Heart College",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632007",
+          "contact": "0416 227 4444",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Islamiah College",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 228 5555",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "C Abdul Hakeem College of Engineering & Technology",
+          "address": "Hosur - Cuddalore Road, Melvisharam, Vellore, Tamil Nadu 632509",
+          "contact": "0416 229 6666",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Vellore Arts College",
+          "address": "Arts College Road, Vellore, Tamil Nadu 632001",
+          "contact": "0416 230 7777",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "DKM College for Women",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "0416 231 8888",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Vellore Fort",
+          "address": "Fort Round Road, Vellore, Tamil Nadu 632004",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Jalakandeswarar Temple",
+          "address": "Vellore Fort, Fort Round Road, Vellore, Tamil Nadu 632004",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Amirthi Zoological Park",
+          "address": "Javadu Hills, Vellore, Tamil Nadu 632012",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Sripuram Golden Temple",
+          "address": "Malaikodi, Vellore, Tamil Nadu 632055",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Vainu Bappu Observatory",
+          "address": "Kavalur, Vellore, Tamil Nadu 632106",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Assumption Cathedral",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Yelagiri Hills",
+          "address": "Yelagiri, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Science Park",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632007",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Shopping": [
+        {
+          "name": "Katpadi Bazaar",
+          "address": "Katpadi Road, Vellore, Tamil Nadu 632007",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Long Bazaar",
+          "address": "Long Bazaar, Vellore, Tamil Nadu 632004",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Gandhi Road Market",
+          "address": "Gandhi Road, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Anna Salai Shopping Complex",
+          "address": "Anna Salai, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Vellore Fort Market",
+          "address": "Fort Round Road, Vellore, Tamil Nadu 632004",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Glow Plaza",
+          "address": "Officers Line, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Arni Road Shopping Center",
+          "address": "Arni Road, Vellore, Tamil Nadu 632001",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Sathuvachari Market",
+          "address": "Sathuvachari, Vellore, Tamil Nadu 632009",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   },
   {
@@ -359,70 +2039,406 @@
     "name": "Cuddalore",
     "image": "./cities/cuddalore.jpg",
     "category":{
-      "Hospitals":[
+      "Hospitals": [
         {
-          "name": "Be Well Hospitals",
-          "address": "45/2,Bharathi Rd,Manjakuppam,Cuddalore,Tamil Nadu 607001",
-          "contact": "074 0272 3420",
-          "location": "https://goo.gl/maps/XERwzkextb9i29Y4A"
+          "name": "Cuddalore Medical Centre",
+          "address": "Immanuel St, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
         },
         {
-          "name": "Krishna Hospital",
-          "address": "17-A,NH-36, Hospital Road, Cuddalore, Tamil Nadu 607001",
-          "contact": "041 4223 1711",
-          "location": "https://goo.gl/maps/JWkM2Lxj7bF2fTj87"
+          "name": "Vasan Eye Care Hospital",
+          "address": "Thiruvalluvar Nagar, Cuddalore, Tamil Nadu 607003",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
         },
         {
-          "name": "Saravana Hospital",
-          "address": "47, Gundusalai Road, Pondy Bye-pass, Cuddalore, Tamil Nadu 607001",
-          "contact": "041 4223 1662",
-          "location": "https://goo.gl/maps/RG1SSrX6VbJb6xjT6"
+          "name": "Raja Hospital",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
         },
         {
-          "name": "Anvika Hospital",
-          "address": "QQ97+83C, Pondy Road,Manjakuppam, Cuddalore, Tamil Nadu 607001",
-          "contact": "087 7808 5323",
-          "location": "https://goo.gl/maps/4eYcF4jABkmdLA1K8"
+          "name": "Ganesan Hospital",
+          "address": "Pudupalayam, Cuddalore, Tamil Nadu 607002",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
         },
         {
-          "name": "Kannan Hospital",
-          "address": "17, Bashyam St, Allpettai, Manjakuppam, Cuddalore, Tamil Nadu 607001",
-          "contact": "041 4223 0370",
-          "location": "https://goo.gl/maps/UuXWia3skQPjdpw66"
+          "name": "Arun Hospital",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
         },
         {
-          "name": "SURENDRA HOSPITAL",
-          "address": "9, Imperial Rd, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
-          "contact": "041 4223 6999",
-          "location": "https://goo.gl/maps/i9K7UiBPfF1PFLyK7"
+          "name": "Nalam Hospital",
+          "address": "Kullanchavadi, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
         },
         {
-          "name": "Kalyaan Hospital",
-          "address": "No 5 Kundusalai Roadadad,Pennaiyar Road, Alpet, Cuddalore, Tamil Nadu 607001",
-          "contact": "087 5482 2223",
-          "location": "https://goo.gl/maps/WBBTiWdXGguBw47o7"
+          "name": "Vasan Dental Care",
+          "address": "Padaleeswarar Koil St, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
         },
         {
-          "name": "Sujatha Hospital",
-          "address": "78, Nethaji Rd, North Venugopalapuram, Allpettai, Manjakuppam, Tamil Nadu 607001",
-          "contact": "041 4223 0422",
-          "location": "https://goo.gl/maps/MWMii3mjqZLPtTjw6"
+          "name": "Rajam Hospital",
+          "address": "Sathyamoorthy Nagar, Cuddalore, Tamil Nadu 607003",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Restaurants": [
+        {
+          "name": "Saravana Bhavan",
+          "address": "Raja Rajeswari Complex, Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Annapoorna Restaurant",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Aruna Restaurant",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Thalappakatti Biryani",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Muthulakshmi Vilas",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Hotel Annachi",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Aaryas",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "The Hungry Crocodile",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],            
+      "Theatres": [
+        {
+          "name": "Balaji Cinemas",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Vijayalakshmi Theatre",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Aradhana Theatre",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Vivek Theatre",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Sri Sakthi Cinemas",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Sri Krishna Theatre",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Vishnu Cinemas",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Jothi Theatre",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Hotels": [
+        {
+          "name": "Grand Palace Hotel",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Royal Residency",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "The Ocean View Hotel",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Palm Grove Hotel",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Cuddalore Gateway Hotel",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Seashore Residency",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Sai Priya Residency",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Lakeside Inn",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Schools": [
+        {
+          "name": "St. Mary's Matriculation School",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Government Higher Secondary School",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Kendriya Vidyalaya Cuddalore",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "St. Joseph's Matriculation School",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Chinmaya Vidyalaya",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Sacred Heart Convent School",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Cuddalore Public School",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Vidya Niketan Matriculation School",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
         }
       ],
-      "Restaurants":[
-      ],
-      "Theatres":[
-      ],
-      "Hotels":[
-      ],
-      "Schools":[
-      ],
-      "Colleges":[
-      ],
-      "Tourist Places":[
-      ],
-      "Shopping":[
-      ]
+      "Colleges": [
+        {
+          "name": "Cuddalore Engineering College",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Government Arts College",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Anna University Regional Campus",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "St. Joseph's College of Arts and Science",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Cuddalore Medical College",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Dhanalakshmi Srinivasan College of Arts and Science",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Raja Rajeswari Polytechnic College",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Government Polytechnic College",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Tourist Places": [
+        {
+          "name": "Silver Beach",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Pichavaram Mangrove Forest",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Padaleeswarar Temple",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Thiruvandipuram Temple",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Devanayaka Perumal Temple",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Cuddalore Port",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Fort St. David",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Cuddalore Lighthouse",
+          "address": "Cuddalore, Tamil Nadu 607001",
+          "contact": "",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ],      
+      "Shopping": [
+        {
+          "name": "City Center Mall",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 123456",
+          "location": "https://goo.gl/maps/abcdef123456"
+        },
+        {
+          "name": "Cuddalore Central",
+          "address": "Market Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 234567",
+          "location": "https://goo.gl/maps/ghijkl789012"
+        },
+        {
+          "name": "Saravana Stores",
+          "address": "Semmandalam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 345678",
+          "location": "https://goo.gl/maps/mnopqr987654"
+        },
+        {
+          "name": "Grand Bazaar",
+          "address": "Imperial Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 456789",
+          "location": "https://goo.gl/maps/stuvwx112233"
+        },
+        {
+          "name": "Cuddalore Shopping Complex",
+          "address": "Harur, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 567890",
+          "location": "https://goo.gl/maps/yzabcd556677"
+        },
+        {
+          "name": "Fashion Paradise",
+          "address": "Chidambaram Road, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 678901",
+          "location": "https://goo.gl/maps/efghij223344"
+        },
+        {
+          "name": "Cuddalore Supermarket",
+          "address": "Manjakuppam, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 789012",
+          "location": "https://goo.gl/maps/klmnop334455"
+        },
+        {
+          "name": "Smart Plaza",
+          "address": "Anna Salai, Cuddalore, Tamil Nadu 607001",
+          "contact": "04142 890123",
+          "location": "https://goo.gl/maps/uwwxxy445566"
+        }
+      ]      
     }
   }
 ]

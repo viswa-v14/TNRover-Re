@@ -1,39 +1,52 @@
 [
-    {
-      "name": "APOLLO HOSPITALS",
-      "address": "Greams Lane, 21, Greams Rd, Thousand Lights, Chennai, Tamil Nadu 600006",
-      "contact": "044 2591 3333",
-      "location": "https://goo.gl/maps/Y3UcJdQ6jrU9vC8e7"
-    },
-    {
-      "name": "Sri Ramakrishna",
-      "address": "395,Sarojini Naidu Rd,Siddhapudur,Balasundaram Layout,B.K.R Nagar, Coimbatore, Tamil Nadu 641044",
-      "contact": "042 2450 0000",
-      "location": "https://g.page/sriramakrishnahospital?share"
-    },
-    {
-      "name": "Apollo Speciality",
-      "address": "Lake View Road, K.K. Nagar, Madurai, , Madurai, Tamil Nadu 625020",
-      "contact": "045 2258 0893",
-      "location": "https://goo.gl/maps/74JTxUBGBLLgXjYp8"
-    },
-    {
-      "name": "Manipal Hospitals",
-      "address": "Dalmia Board, Salem - Bangalore Highway, Vellakalpatti, Salem, Tamil Nadu 636012",
-      "contact": "180 0102 4647",
-      "location": "https://www.google.com/maps/place/Manipal+Hospitals+Salem/@11.7009018,77.8473872,11z/data=!4m19!1m13!4m12!1m4!2m2!1d77.5966516!2d11.2738796!4e1!1m6!1m2!1s0x3babfa73ce407e39:0x4959b4b0652d724f!2sManipal+Hospitals+Salem,+Dalmia+Board,+Salem+-+Bangalore+Highway,+Salem,+Tamil+Nadu+636012!2m2!1d78.1027645!2d11.7030185!3m4!1s0x3babfa73ce407e39:0x4959b4b0652d724f!8m2!3d11.7030185!4d78.1027645"
-    },
-    {
-      "name": "CMC Hospital",
-      "address": "SH 207, Sasthri Nagar, Krishna Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
-      "contact": "041 6228 2089",
-      "location": "https://goo.gl/maps/eMDNgrnhfbVorMAZ8"
-    },
-    {
-      "name": "Be Well Hospitals",
-      "address": "45/2,Bharathi Rd,Manjakuppam,Cuddalore,Tamil Nadu 607001",
-      "contact": "074 0272 3420",
-      "location": "https://goo.gl/maps/XERwzkextb9i29Y4A"
-    }
-  ]
-  
+  {
+    "name": "PVR Cinemas",
+    "category": "Theatres",
+    "location": "https://goo.gl/maps/abcdef123456"
+  },
+  {
+    "name": "Taj Coromandel",
+    "category": "Hotels",
+    "location": "https://goo.gl/maps/abcdefghijklmnop"
+  },
+  {
+    "name": "St. Mary's Matriculation School",
+    "category": "Schools",
+    "location": "https://goo.gl/maps/abcdef123456"
+  },
+  {
+    "name": "Cuddalore Engineering College",
+    "category": "Colleges",
+    "location": "https://goo.gl/maps/uvwxyzabcdef"
+  },
+  {
+    "name": "Silver Beach",
+    "category": "Tourist Places",
+    "location": "https://goo.gl/maps/ijklmnopqrst"
+  },
+  {
+    "name": "Express Avenue Mall",
+    "category": "Shopping",
+    "location": "https://goo.gl/maps/ghijklmnopqr"
+  },
+  {
+    "name": "Vadamalayan Hospital",
+    "category": "Hospitals",
+    "location": "https://goo.gl/maps/uvwxyzabcdef"
+  },
+  {
+    "name": "Annalakshmi",
+    "category": "Restaurants",
+    "location": "https://goo.gl/maps/Y6peUaREpVCZEZ9ZA"
+  },
+  {
+    "name": "Pichavaram Mangrove Forest",
+    "category": "Tourist Places",
+    "location": "https://goo.gl/maps/ijklmnopqrst"
+  },
+  {
+    "name": "Barbeque Nation",
+    "category": "Restaurants",
+    "location": "https://goo.gl/maps/eEoPbURoe3tXeeQ76"
+  }
+]

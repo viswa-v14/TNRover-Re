@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../../utils/districts.json";
-import "../Category/Category.css";
+import "./List.css";
 import { useNavigate } from "react-router-dom";
 
 
