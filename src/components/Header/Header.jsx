@@ -21,7 +21,7 @@ const Header = () => {
         onOutsideClick={()=>setMenuOpened(false)}
         >
           <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
-            <a href="/">Home</a>
+            <a href="/TNRover-Re/">Home</a>
             <a href="">Cities</a>
             <a href="">Top Ratings</a>
             {/* <a href="">Contact Us</a> */}

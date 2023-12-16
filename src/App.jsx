@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/TNRover-Re" element={<HomePage />}/>
+          <Route path="/TNRover-Re/" element={<HomePage />}/>
           <Route path="/TNRover-Re/category" element={<CategoryPage />}/>
           <Route path="/TNRover-Re/list" element={<ListPage />}/>
           <Route path="/TNRover-Re/property" element={<PropertyPage />} />
