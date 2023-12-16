@@ -17,7 +17,7 @@ function App() {
           <Route path="/property" element={<PropertyPage />} />
         </Routes>
       </BrowserRouter> */}
-      <List/>
+      <h1>Test</h1>
     </div>
   );
 }
