@@ -11,9 +11,9 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/TNRover-Re" element={<HomePage />}/>
-          <Route path="/category" element={<CategoryPage />}/>
-          <Route path="/list" element={<ListPage />}/>
-          <Route path="/property" element={<PropertyPage />} />
+          <Route path="/TNRover-Re/category" element={<CategoryPage />}/>
+          <Route path="/TNRover-Re/list" element={<ListPage />}/>
+          <Route path="/TNRover-Re/property" element={<PropertyPage />} />
         </Routes>
       </BrowserRouter>
     </div>
