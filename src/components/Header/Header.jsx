@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./Header.css";
 import { BiMenuAltRight } from "react-icons/bi";
 import OutsideClickHandler from "react-outside-click-handler";
+import { useNavigate } from "react-router-dom";
 
 const Header = () => {
   const [menuOpened, setMenuOpened] = useState(false);
@@ -11,6 +12,7 @@ const Header = () => {
       return { right: !menuOpened && "-100%" };
     }
   };
+  const navigate = useNavigate();
 
   return (
     <section className="h-wrapper">
@@ -21,7 +23,7 @@ const Header = () => {
         onOutsideClick={()=>setMenuOpened(false)}
         >
           <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
-            <a href="/TNRover-Re/">Home</a>
+            <a onClick={()=>navigate('/TNRover-Re/')}>Home</a>
             <a href="">Cities</a>
             <a href="">Top Ratings</a>
             {/* <a href="">Contact Us</a> */}
