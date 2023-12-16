@@ -7,7 +7,7 @@ const Category = () => {
   const id = localStorage.getItem("Id");
   const handleNavigation = (name)=>{
     localStorage.setItem('category',name);
-    navigate('/list');
+    navigate('/TNRover-Re/list');
   }
   return (
     <section className="c-wrapper">

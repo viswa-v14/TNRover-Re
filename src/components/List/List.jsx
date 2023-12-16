@@ -11,7 +11,7 @@ const List = () => {
 
   const handleNavigation = (id)=>{
     localStorage.setItem('newId',id);
-    navigate('/property');
+    navigate('/TNRover-Re/property');
   }
 
   return (

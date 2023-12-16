@@ -6,7 +6,7 @@ const Cities = () => {
   const navigate = useNavigate();
   const handleNavigation=(id)=>{
     localStorage.setItem('Id',id);
-    navigate('/category');
+    navigate('/TNRover-Re/category');
   }
   return (
     <section className="c-wrapper">
