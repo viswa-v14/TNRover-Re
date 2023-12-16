@@ -1,8 +1,9 @@
 {
   "name": "tnrover",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://viswa-v14.github.io/TNRover-Re/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
