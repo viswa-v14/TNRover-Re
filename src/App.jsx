@@ -18,6 +18,7 @@ function App() {
         </Routes>
       </BrowserRouter> */}
       <h1>Test</h1>
+      {console.log("checking")}
     </div>
   );
 }
