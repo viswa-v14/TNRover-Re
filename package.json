@@ -3,10 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://viswa-v14.github.io/TNRover-Re/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-page -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
